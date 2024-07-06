@@ -6,7 +6,7 @@ First Name Database in MongoDB and Python Query API
 1. Clone Repo
 
 ```terminal
-git clone https://github.com/erinallard/instagram_miner.git
+gh repo clone christie-T/NameQuery
 ```
 
 2. Install Dependencies
