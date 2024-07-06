@@ -3,13 +3,13 @@ First Name Database in MongoDB and Python Query API
 
 ## Set Up:
 
-1. Clone Repo
+1. Clone Repo 
 
 ```terminal
 gh repo clone christie-T/NameQuery
 ```
 
-2. Install Dependencies
+2. Install Dependencies in Terminal
 
 ```terminal
 pip install -r requirements.txt
